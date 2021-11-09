@@ -10,5 +10,5 @@ A powerful social media for open source
 - [ ] Discussions
 
 ## Technologies 
-Frontend - React and Redux
-Backend - Flask, graphene and graphQl
+- Frontend - React and Redux
+- Backend - Flask, graphene and graphQl
